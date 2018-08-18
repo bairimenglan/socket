@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/qing/CLionProjects/xmltest/main.cpp
+iostream
+-
+tinyxml.h
+/Users/qing/CLionProjects/xmltest/tinyxml.h
+
+/Users/qing/CLionProjects/xmltest/tinystr.h
+assert.h
+-
+string.h
+-
+
+/Users/qing/CLionProjects/xmltest/tinyxml.h
+ctype.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+string
+-
+iostream
+-
+sstream
+-
+tinystr.h
+/Users/qing/CLionProjects/xmltest/tinystr.h
+

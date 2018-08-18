@@ -1,0 +1,3 @@
+/Users/qing/CLionProjects/xmltest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/qing/CLionProjects/xmltest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/qing/CLionProjects/xmltest/cmake-build-debug/CMakeFiles/xmltest.dir
