@@ -5,3 +5,18 @@ CMakeFiles/xmltest.dir/main.cpp.o
  /Users/qing/CLionProjects/xmltest/main.cpp
  /Users/qing/CLionProjects/xmltest/tinystr.h
  /Users/qing/CLionProjects/xmltest/tinyxml.h
+CMakeFiles/xmltest.dir/tinystr.cpp.o
+ /Users/qing/CLionProjects/xmltest/tinystr.cpp
+ /Users/qing/CLionProjects/xmltest/tinystr.h
+CMakeFiles/xmltest.dir/tinyxml.cpp.o
+ /Users/qing/CLionProjects/xmltest/tinystr.h
+ /Users/qing/CLionProjects/xmltest/tinyxml.cpp
+ /Users/qing/CLionProjects/xmltest/tinyxml.h
+CMakeFiles/xmltest.dir/tinyxmlerror.cpp.o
+ /Users/qing/CLionProjects/xmltest/tinystr.h
+ /Users/qing/CLionProjects/xmltest/tinyxml.h
+ /Users/qing/CLionProjects/xmltest/tinyxmlerror.cpp
+CMakeFiles/xmltest.dir/tinyxmlparser.cpp.o
+ /Users/qing/CLionProjects/xmltest/tinystr.h
+ /Users/qing/CLionProjects/xmltest/tinyxml.h
+ /Users/qing/CLionProjects/xmltest/tinyxmlparser.cpp

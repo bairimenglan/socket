@@ -1,5 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/xmltest.dir/main.cpp.o"
+  "CMakeFiles/xmltest.dir/tinystr.cpp.o"
+  "CMakeFiles/xmltest.dir/tinyxml.cpp.o"
+  "CMakeFiles/xmltest.dir/tinyxmlerror.cpp.o"
+  "CMakeFiles/xmltest.dir/tinyxmlparser.cpp.o"
   "xmltest.pdb"
   "xmltest"
 )

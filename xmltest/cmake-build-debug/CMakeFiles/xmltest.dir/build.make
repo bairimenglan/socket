@@ -70,17 +70,77 @@ CMakeFiles/xmltest.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/xmltest.dir/main.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/qing/CLionProjects/xmltest/main.cpp -o CMakeFiles/xmltest.dir/main.cpp.s
 
+CMakeFiles/xmltest.dir/tinystr.cpp.o: CMakeFiles/xmltest.dir/flags.make
+CMakeFiles/xmltest.dir/tinystr.cpp.o: ../tinystr.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/qing/CLionProjects/xmltest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/xmltest.dir/tinystr.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/xmltest.dir/tinystr.cpp.o -c /Users/qing/CLionProjects/xmltest/tinystr.cpp
+
+CMakeFiles/xmltest.dir/tinystr.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/xmltest.dir/tinystr.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/qing/CLionProjects/xmltest/tinystr.cpp > CMakeFiles/xmltest.dir/tinystr.cpp.i
+
+CMakeFiles/xmltest.dir/tinystr.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/xmltest.dir/tinystr.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/qing/CLionProjects/xmltest/tinystr.cpp -o CMakeFiles/xmltest.dir/tinystr.cpp.s
+
+CMakeFiles/xmltest.dir/tinyxml.cpp.o: CMakeFiles/xmltest.dir/flags.make
+CMakeFiles/xmltest.dir/tinyxml.cpp.o: ../tinyxml.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/qing/CLionProjects/xmltest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/xmltest.dir/tinyxml.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/xmltest.dir/tinyxml.cpp.o -c /Users/qing/CLionProjects/xmltest/tinyxml.cpp
+
+CMakeFiles/xmltest.dir/tinyxml.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/xmltest.dir/tinyxml.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/qing/CLionProjects/xmltest/tinyxml.cpp > CMakeFiles/xmltest.dir/tinyxml.cpp.i
+
+CMakeFiles/xmltest.dir/tinyxml.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/xmltest.dir/tinyxml.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/qing/CLionProjects/xmltest/tinyxml.cpp -o CMakeFiles/xmltest.dir/tinyxml.cpp.s
+
+CMakeFiles/xmltest.dir/tinyxmlerror.cpp.o: CMakeFiles/xmltest.dir/flags.make
+CMakeFiles/xmltest.dir/tinyxmlerror.cpp.o: ../tinyxmlerror.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/qing/CLionProjects/xmltest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/xmltest.dir/tinyxmlerror.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/xmltest.dir/tinyxmlerror.cpp.o -c /Users/qing/CLionProjects/xmltest/tinyxmlerror.cpp
+
+CMakeFiles/xmltest.dir/tinyxmlerror.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/xmltest.dir/tinyxmlerror.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/qing/CLionProjects/xmltest/tinyxmlerror.cpp > CMakeFiles/xmltest.dir/tinyxmlerror.cpp.i
+
+CMakeFiles/xmltest.dir/tinyxmlerror.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/xmltest.dir/tinyxmlerror.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/qing/CLionProjects/xmltest/tinyxmlerror.cpp -o CMakeFiles/xmltest.dir/tinyxmlerror.cpp.s
+
+CMakeFiles/xmltest.dir/tinyxmlparser.cpp.o: CMakeFiles/xmltest.dir/flags.make
+CMakeFiles/xmltest.dir/tinyxmlparser.cpp.o: ../tinyxmlparser.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/qing/CLionProjects/xmltest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/xmltest.dir/tinyxmlparser.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/xmltest.dir/tinyxmlparser.cpp.o -c /Users/qing/CLionProjects/xmltest/tinyxmlparser.cpp
+
+CMakeFiles/xmltest.dir/tinyxmlparser.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/xmltest.dir/tinyxmlparser.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/qing/CLionProjects/xmltest/tinyxmlparser.cpp > CMakeFiles/xmltest.dir/tinyxmlparser.cpp.i
+
+CMakeFiles/xmltest.dir/tinyxmlparser.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/xmltest.dir/tinyxmlparser.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/qing/CLionProjects/xmltest/tinyxmlparser.cpp -o CMakeFiles/xmltest.dir/tinyxmlparser.cpp.s
+
 # Object files for target xmltest
 xmltest_OBJECTS = \
-"CMakeFiles/xmltest.dir/main.cpp.o"
+"CMakeFiles/xmltest.dir/main.cpp.o" \
+"CMakeFiles/xmltest.dir/tinystr.cpp.o" \
+"CMakeFiles/xmltest.dir/tinyxml.cpp.o" \
+"CMakeFiles/xmltest.dir/tinyxmlerror.cpp.o" \
+"CMakeFiles/xmltest.dir/tinyxmlparser.cpp.o"
 
 # External object files for target xmltest
 xmltest_EXTERNAL_OBJECTS =
 
 xmltest: CMakeFiles/xmltest.dir/main.cpp.o
+xmltest: CMakeFiles/xmltest.dir/tinystr.cpp.o
+xmltest: CMakeFiles/xmltest.dir/tinyxml.cpp.o
+xmltest: CMakeFiles/xmltest.dir/tinyxmlerror.cpp.o
+xmltest: CMakeFiles/xmltest.dir/tinyxmlparser.cpp.o
 xmltest: CMakeFiles/xmltest.dir/build.make
 xmltest: CMakeFiles/xmltest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/qing/CLionProjects/xmltest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable xmltest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/qing/CLionProjects/xmltest/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable xmltest"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/xmltest.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

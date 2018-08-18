@@ -1,1 +1,1 @@
-/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/xmltest.dir/main.cpp.o  -o xmltest 
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/xmltest.dir/main.cpp.o CMakeFiles/xmltest.dir/tinystr.cpp.o CMakeFiles/xmltest.dir/tinyxml.cpp.o CMakeFiles/xmltest.dir/tinyxmlerror.cpp.o CMakeFiles/xmltest.dir/tinyxmlparser.cpp.o  -o xmltest 

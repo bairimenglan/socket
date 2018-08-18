@@ -85,6 +85,24 @@
 		<Unit filename="/Users/qing/CLionProjects/xmltest/main.cpp">
 			<Option target="xmltest"/>
 		</Unit>
+		<Unit filename="/Users/qing/CLionProjects/xmltest/tinystr.cpp">
+			<Option target="xmltest"/>
+		</Unit>
+		<Unit filename="/Users/qing/CLionProjects/xmltest/tinystr.h">
+			<Option target="xmltest"/>
+		</Unit>
+		<Unit filename="/Users/qing/CLionProjects/xmltest/tinyxml.cpp">
+			<Option target="xmltest"/>
+		</Unit>
+		<Unit filename="/Users/qing/CLionProjects/xmltest/tinyxml.h">
+			<Option target="xmltest"/>
+		</Unit>
+		<Unit filename="/Users/qing/CLionProjects/xmltest/tinyxmlerror.cpp">
+			<Option target="xmltest"/>
+		</Unit>
+		<Unit filename="/Users/qing/CLionProjects/xmltest/tinyxmlparser.cpp">
+			<Option target="xmltest"/>
+		</Unit>
 		<Unit filename="/Users/qing/CLionProjects/xmltest/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

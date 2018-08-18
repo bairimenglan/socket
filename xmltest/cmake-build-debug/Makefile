@@ -150,6 +150,114 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/xmltest.dir/build.make CMakeFiles/xmltest.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+tinystr.o: tinystr.cpp.o
+
+.PHONY : tinystr.o
+
+# target to build an object file
+tinystr.cpp.o:
+	$(MAKE) -f CMakeFiles/xmltest.dir/build.make CMakeFiles/xmltest.dir/tinystr.cpp.o
+.PHONY : tinystr.cpp.o
+
+tinystr.i: tinystr.cpp.i
+
+.PHONY : tinystr.i
+
+# target to preprocess a source file
+tinystr.cpp.i:
+	$(MAKE) -f CMakeFiles/xmltest.dir/build.make CMakeFiles/xmltest.dir/tinystr.cpp.i
+.PHONY : tinystr.cpp.i
+
+tinystr.s: tinystr.cpp.s
+
+.PHONY : tinystr.s
+
+# target to generate assembly for a file
+tinystr.cpp.s:
+	$(MAKE) -f CMakeFiles/xmltest.dir/build.make CMakeFiles/xmltest.dir/tinystr.cpp.s
+.PHONY : tinystr.cpp.s
+
+tinyxml.o: tinyxml.cpp.o
+
+.PHONY : tinyxml.o
+
+# target to build an object file
+tinyxml.cpp.o:
+	$(MAKE) -f CMakeFiles/xmltest.dir/build.make CMakeFiles/xmltest.dir/tinyxml.cpp.o
+.PHONY : tinyxml.cpp.o
+
+tinyxml.i: tinyxml.cpp.i
+
+.PHONY : tinyxml.i
+
+# target to preprocess a source file
+tinyxml.cpp.i:
+	$(MAKE) -f CMakeFiles/xmltest.dir/build.make CMakeFiles/xmltest.dir/tinyxml.cpp.i
+.PHONY : tinyxml.cpp.i
+
+tinyxml.s: tinyxml.cpp.s
+
+.PHONY : tinyxml.s
+
+# target to generate assembly for a file
+tinyxml.cpp.s:
+	$(MAKE) -f CMakeFiles/xmltest.dir/build.make CMakeFiles/xmltest.dir/tinyxml.cpp.s
+.PHONY : tinyxml.cpp.s
+
+tinyxmlerror.o: tinyxmlerror.cpp.o
+
+.PHONY : tinyxmlerror.o
+
+# target to build an object file
+tinyxmlerror.cpp.o:
+	$(MAKE) -f CMakeFiles/xmltest.dir/build.make CMakeFiles/xmltest.dir/tinyxmlerror.cpp.o
+.PHONY : tinyxmlerror.cpp.o
+
+tinyxmlerror.i: tinyxmlerror.cpp.i
+
+.PHONY : tinyxmlerror.i
+
+# target to preprocess a source file
+tinyxmlerror.cpp.i:
+	$(MAKE) -f CMakeFiles/xmltest.dir/build.make CMakeFiles/xmltest.dir/tinyxmlerror.cpp.i
+.PHONY : tinyxmlerror.cpp.i
+
+tinyxmlerror.s: tinyxmlerror.cpp.s
+
+.PHONY : tinyxmlerror.s
+
+# target to generate assembly for a file
+tinyxmlerror.cpp.s:
+	$(MAKE) -f CMakeFiles/xmltest.dir/build.make CMakeFiles/xmltest.dir/tinyxmlerror.cpp.s
+.PHONY : tinyxmlerror.cpp.s
+
+tinyxmlparser.o: tinyxmlparser.cpp.o
+
+.PHONY : tinyxmlparser.o
+
+# target to build an object file
+tinyxmlparser.cpp.o:
+	$(MAKE) -f CMakeFiles/xmltest.dir/build.make CMakeFiles/xmltest.dir/tinyxmlparser.cpp.o
+.PHONY : tinyxmlparser.cpp.o
+
+tinyxmlparser.i: tinyxmlparser.cpp.i
+
+.PHONY : tinyxmlparser.i
+
+# target to preprocess a source file
+tinyxmlparser.cpp.i:
+	$(MAKE) -f CMakeFiles/xmltest.dir/build.make CMakeFiles/xmltest.dir/tinyxmlparser.cpp.i
+.PHONY : tinyxmlparser.cpp.i
+
+tinyxmlparser.s: tinyxmlparser.cpp.s
+
+.PHONY : tinyxmlparser.s
+
+# target to generate assembly for a file
+tinyxmlparser.cpp.s:
+	$(MAKE) -f CMakeFiles/xmltest.dir/build.make CMakeFiles/xmltest.dir/tinyxmlparser.cpp.s
+.PHONY : tinyxmlparser.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +270,18 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... tinystr.o"
+	@echo "... tinystr.i"
+	@echo "... tinystr.s"
+	@echo "... tinyxml.o"
+	@echo "... tinyxml.i"
+	@echo "... tinyxml.s"
+	@echo "... tinyxmlerror.o"
+	@echo "... tinyxmlerror.i"
+	@echo "... tinyxmlerror.s"
+	@echo "... tinyxmlparser.o"
+	@echo "... tinyxmlparser.i"
+	@echo "... tinyxmlparser.s"
 .PHONY : help
 
 

@@ -11,6 +11,8 @@ iostream
 -
 tinyxml.h
 /Users/qing/CLionProjects/xmltest/tinyxml.h
+tinystr.h
+/Users/qing/CLionProjects/xmltest/tinystr.h
 
 /Users/qing/CLionProjects/xmltest/tinystr.h
 assert.h

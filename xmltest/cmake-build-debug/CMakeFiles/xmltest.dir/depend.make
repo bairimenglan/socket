@@ -5,3 +5,18 @@ CMakeFiles/xmltest.dir/main.cpp.o: ../main.cpp
 CMakeFiles/xmltest.dir/main.cpp.o: ../tinystr.h
 CMakeFiles/xmltest.dir/main.cpp.o: ../tinyxml.h
 
+CMakeFiles/xmltest.dir/tinystr.cpp.o: ../tinystr.cpp
+CMakeFiles/xmltest.dir/tinystr.cpp.o: ../tinystr.h
+
+CMakeFiles/xmltest.dir/tinyxml.cpp.o: ../tinystr.h
+CMakeFiles/xmltest.dir/tinyxml.cpp.o: ../tinyxml.cpp
+CMakeFiles/xmltest.dir/tinyxml.cpp.o: ../tinyxml.h
+
+CMakeFiles/xmltest.dir/tinyxmlerror.cpp.o: ../tinystr.h
+CMakeFiles/xmltest.dir/tinyxmlerror.cpp.o: ../tinyxml.h
+CMakeFiles/xmltest.dir/tinyxmlerror.cpp.o: ../tinyxmlerror.cpp
+
+CMakeFiles/xmltest.dir/tinyxmlparser.cpp.o: ../tinystr.h
+CMakeFiles/xmltest.dir/tinyxmlparser.cpp.o: ../tinyxml.h
+CMakeFiles/xmltest.dir/tinyxmlparser.cpp.o: ../tinyxmlparser.cpp
+
